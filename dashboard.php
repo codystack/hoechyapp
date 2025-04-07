@@ -19,7 +19,7 @@ include "./components/header_alt.php";
                         <div class="card-body px-0">
                             <div class="container">
                                 <div class="row">
-                                    <div class="col-lg-4">
+                                    <div class="col-lg-4 pb-3">
                                         <a href='#' class="url-box" >
                                             <figure class='newsCard news-Slide-up '>
                                                 <img src="assets/images/weekly-report.jpg"/>
@@ -33,7 +33,7 @@ include "./components/header_alt.php";
                                         </a>
                                     </div>
 
-                                    <div class="col-lg-4">
+                                    <div class="col-lg-4 pb-3">
                                         <a href='#' class="url-box" >
                                             <figure class='newsCard news-Slide-up '>
                                                 <img src="assets/images/weekly-report.jpg"/>
@@ -47,7 +47,7 @@ include "./components/header_alt.php";
                                         </a>
                                     </div>
 
-                                    <div class="col-lg-4">
+                                    <div class="col-lg-4 pb-3">
                                         <a href='#' class="url-box" >
                                             <figure class='newsCard news-Slide-up '>
                                                 <img src="assets/images/site-report.jpg"/>
@@ -61,7 +61,7 @@ include "./components/header_alt.php";
                                         </a>
                                     </div>
 
-                                    <div class="col-lg-4">
+                                    <div class="col-lg-4 pb-3">
                                         <a href='#' class="url-box" >
                                             <figure class='newsCard news-Slide-up '>
                                                 <img src="assets/images/weekly-report.jpg"/>
@@ -75,7 +75,7 @@ include "./components/header_alt.php";
                                         </a>
                                     </div>
 
-                                    <div class="col-lg-4">
+                                    <div class="col-lg-4 pb-3">
                                         <a href='#' class="url-box" >
                                             <figure class='newsCard news-Slide-up '>
                                                 <img src="assets/images/weekly-report.jpg"/>
@@ -89,7 +89,7 @@ include "./components/header_alt.php";
                                         </a>
                                     </div>
 
-                                    <div class="col-lg-4">
+                                    <div class="col-lg-4 pb-3">
                                         <a href='#' class="url-box" >
                                             <figure class='newsCard news-Slide-up '>
                                                 <img src="assets/images/weekly-report.jpg"/>
@@ -103,7 +103,7 @@ include "./components/header_alt.php";
                                         </a>
                                     </div>
 
-                                    <div class="col-lg-4">
+                                    <div class="col-lg-4 pb-3">
                                         <a href='#' class="url-box" >
                                             <figure class='newsCard news-Slide-up '>
                                                 <img src="assets/images/weekly-report.jpg"/>

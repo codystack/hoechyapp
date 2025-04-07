@@ -12,9 +12,9 @@ if ($WEBSITE_ENVIRONMENT == "Development") {
     error_reporting(E_ALL ^ E_NOTICE); // turn ON showing errors
 } else {
     $host = "localhost";
-    $user = "easyhnfc_app";
+    $user = "kkocdqej_hoechy";
     $password = "$10Password!!";
-    $database = "easyhnfc_app";
+    $database = "kkocdqej_hoechy";
     define("APP_ENVIRONMENT", "Production");
     define("APP_BASE_URL", "https://www.hoechy.xyz");
     #error_reporting(0); // turn OFF showing errors
