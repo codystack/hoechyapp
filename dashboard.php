@@ -17,53 +17,85 @@ include "./components/header_alt.php";
                     <div class="card bg-transparent p-0">
 
                         <div class="card-body px-0">
-                            <div class="container mt-5">
+                            <div class="container">
                                 <div class="row">
                                     <div class="col-lg-4">
                                         <a href='#' class="url-box" >
                                             <figure class='newsCard news-Slide-up '>
-                                                <img src="https://source.unsplash.com/1600x900/?background"/>
+                                                <img src="assets/images/weekly-report.jpg"/>
                                                 <div class='newsCaption px-4'>
                                                     <div class="d-flex align-items-center justify-content-between cnt-title">
-                                                        <h5 class='newsCaption-title text-white m-0'>Title Examples</h5> <i class="fas fa-arrow-right "></i>
-                                                    </div>
-                                                    <div class='newsCaption-content d-flex '>
-                                                        <p class="col-10 py-3 px-0">Lorem ipsum description examples. </p>
+                                                        <h6 class='newsCaption-title text-white m-0'>Weekly Report</h6> <i class="fas fa-arrow-right "></i>
                                                     </div>
                                                 </div>
                                                 <span class="overlay"></span>
                                             </figure>
                                         </a>
                                     </div>
-                            
-                            
+
                                     <div class="col-lg-4">
                                         <a href='#' class="url-box" >
                                             <figure class='newsCard news-Slide-up '>
-                                                <img src="https://source.unsplash.com/1600x900/?background"/>
+                                                <img src="assets/images/weekly-report.jpg"/>
                                                 <div class='newsCaption px-4'>
                                                     <div class="d-flex align-items-center justify-content-between cnt-title">
-                                                        <h5 class='newsCaption-title text-white m-0'>Title Examples</h5> <i class="fas fa-arrow-alt-circle-right "></i>
-                                                    </div>
-                                                    <div class='newsCaption-content d-flex '>
-                                                        <p class="col-10 py-3 px-0">Lorem ipsum description examples. </p>
+                                                        <h6 class='newsCaption-title text-white m-0'>Weekly Report</h6> <i class="fas fa-arrow-right "></i>
                                                     </div>
                                                 </div>
                                                 <span class="overlay"></span>
                                             </figure>
                                         </a>
                                     </div>
-                            
+
                                     <div class="col-lg-4">
                                         <a href='#' class="url-box" >
                                             <figure class='newsCard news-Slide-up '>
-                                                <img src="https://source.unsplash.com/1600x900/?background"/>
+                                                <img src="assets/images/weekly-report.jpg"/>
                                                 <div class='newsCaption px-4'>
                                                     <div class="d-flex align-items-center justify-content-between cnt-title">
-                                                        <h5 class='newsCaption-title text-white m-0'>Title Examples</h5> <i class="fas fa-arrow-alt-circle-right "></i>
+                                                        <h6 class='newsCaption-title text-white m-0'>Weekly Report</h6> <i class="fas fa-arrow-right "></i>
                                                     </div>
-                                                    <div class='newsCaption-content d-flex '>
-                                                        <p class="col-10 py-3 px-0">Lorem ipsum description examples. </p>
+                                                </div>
+                                                <span class="overlay"></span>
+                                            </figure>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-lg-4">
+                                        <a href='#' class="url-box" >
+                                            <figure class='newsCard news-Slide-up '>
+                                                <img src="assets/images/weekly-report.jpg"/>
+                                                <div class='newsCaption px-4'>
+                                                    <div class="d-flex align-items-center justify-content-between cnt-title">
+                                                        <h6 class='newsCaption-title text-white m-0'>Weekly Report</h6> <i class="fas fa-arrow-right "></i>
+                                                    </div>
+                                                </div>
+                                                <span class="overlay"></span>
+                                            </figure>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-lg-4">
+                                        <a href='#' class="url-box" >
+                                            <figure class='newsCard news-Slide-up '>
+                                                <img src="assets/images/weekly-report.jpg"/>
+                                                <div class='newsCaption px-4'>
+                                                    <div class="d-flex align-items-center justify-content-between cnt-title">
+                                                        <h6 class='newsCaption-title text-white m-0'>Weekly Report</h6> <i class="fas fa-arrow-right "></i>
+                                                    </div>
+                                                </div>
+                                                <span class="overlay"></span>
+                                            </figure>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-lg-4">
+                                        <a href='#' class="url-box" >
+                                            <figure class='newsCard news-Slide-up '>
+                                                <img src="assets/images/weekly-report.jpg"/>
+                                                <div class='newsCaption px-4'>
+                                                    <div class="d-flex align-items-center justify-content-between cnt-title">
+                                                        <h6 class='newsCaption-title text-white m-0'>Weekly Report</h6> <i class="fas fa-arrow-right "></i>
                                                     </div>
                                                 </div>
                                                 <span class="overlay"></span>

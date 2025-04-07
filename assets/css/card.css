@@ -47,7 +47,7 @@
     transition: transform 0.4s;
     transition: transform 0.4s,  -webkit-transform 0.4s;
   }
-  .newsCaption i{font-size: 24px;}
+  /* .newsCaption i{font-size: 24px;} */
   
   .newsCaption-title {
     margin-top: 0px;
