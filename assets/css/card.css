@@ -74,7 +74,7 @@
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#400a6f",endColorstr="#593b74",GradientType=1);
   }
   
-  .news-Slide-up:hover .newsCaption {
+  /* .news-Slide-up:hover .newsCaption {
   
     -webkit-transform: translateY(0px);
             transform: translateY(0px);
@@ -82,4 +82,4 @@
     transition: -webkit-transform 0.4s;
     transition: transform 0.4s;
     transition: transform 0.4s, -webkit-transform 0.4s;
-  }  
+  }   */

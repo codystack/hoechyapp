@@ -25,7 +25,7 @@ include "./components/header_alt.php";
                                                 <img src="assets/images/weekly-report.jpg"/>
                                                 <div class='newsCaption px-4'>
                                                     <div class="d-flex align-items-center justify-content-between cnt-title">
-                                                        <h6 class='newsCaption-title text-white m-0'>Weekly Report</h6> <i class="fas fa-arrow-right "></i>
+                                                        <h6 class='newsCaption-title text-white m-0'>Weekly Activity Report</h6> <i class="fas fa-arrow-right "></i>
                                                     </div>
                                                 </div>
                                                 <span class="overlay"></span>
@@ -39,7 +39,21 @@ include "./components/header_alt.php";
                                                 <img src="assets/images/weekly-report.jpg"/>
                                                 <div class='newsCaption px-4'>
                                                     <div class="d-flex align-items-center justify-content-between cnt-title">
-                                                        <h6 class='newsCaption-title text-white m-0'>Weekly Report</h6> <i class="fas fa-arrow-right "></i>
+                                                        <h6 class='newsCaption-title text-white m-0'>Daily Inspection</h6> <i class="fas fa-arrow-right "></i>
+                                                    </div>
+                                                </div>
+                                                <span class="overlay"></span>
+                                            </figure>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-lg-4">
+                                        <a href='#' class="url-box" >
+                                            <figure class='newsCard news-Slide-up '>
+                                                <img src="assets/images/site-report.jpg"/>
+                                                <div class='newsCaption px-4'>
+                                                    <div class="d-flex align-items-center justify-content-between cnt-title">
+                                                        <h6 class='newsCaption-title text-white m-0'>Daily Site Report</h6> <i class="fas fa-arrow-right "></i>
                                                     </div>
                                                 </div>
                                                 <span class="overlay"></span>
@@ -53,7 +67,7 @@ include "./components/header_alt.php";
                                                 <img src="assets/images/weekly-report.jpg"/>
                                                 <div class='newsCaption px-4'>
                                                     <div class="d-flex align-items-center justify-content-between cnt-title">
-                                                        <h6 class='newsCaption-title text-white m-0'>Weekly Report</h6> <i class="fas fa-arrow-right "></i>
+                                                        <h6 class='newsCaption-title text-white m-0'>Vehicle Movement Register</h6> <i class="fas fa-arrow-right "></i>
                                                     </div>
                                                 </div>
                                                 <span class="overlay"></span>
@@ -67,7 +81,7 @@ include "./components/header_alt.php";
                                                 <img src="assets/images/weekly-report.jpg"/>
                                                 <div class='newsCaption px-4'>
                                                     <div class="d-flex align-items-center justify-content-between cnt-title">
-                                                        <h6 class='newsCaption-title text-white m-0'>Weekly Report</h6> <i class="fas fa-arrow-right "></i>
+                                                        <h6 class='newsCaption-title text-white m-0'>Vehicle Maintenance Request</h6> <i class="fas fa-arrow-right "></i>
                                                     </div>
                                                 </div>
                                                 <span class="overlay"></span>
@@ -81,7 +95,7 @@ include "./components/header_alt.php";
                                                 <img src="assets/images/weekly-report.jpg"/>
                                                 <div class='newsCaption px-4'>
                                                     <div class="d-flex align-items-center justify-content-between cnt-title">
-                                                        <h6 class='newsCaption-title text-white m-0'>Weekly Report</h6> <i class="fas fa-arrow-right "></i>
+                                                        <h6 class='newsCaption-title text-white m-0'>Vehicle Maintenance Log</h6> <i class="fas fa-arrow-right "></i>
                                                     </div>
                                                 </div>
                                                 <span class="overlay"></span>
@@ -95,7 +109,7 @@ include "./components/header_alt.php";
                                                 <img src="assets/images/weekly-report.jpg"/>
                                                 <div class='newsCaption px-4'>
                                                     <div class="d-flex align-items-center justify-content-between cnt-title">
-                                                        <h6 class='newsCaption-title text-white m-0'>Weekly Report</h6> <i class="fas fa-arrow-right "></i>
+                                                        <h6 class='newsCaption-title text-white m-0'>Monthly Vehicle Maintenance Checklist</h6> <i class="fas fa-arrow-right "></i>
                                                     </div>
                                                 </div>
                                                 <span class="overlay"></span>
