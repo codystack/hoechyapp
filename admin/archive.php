@@ -29,91 +29,39 @@ require_once 'auth/account.php';
                                         aria-labelledby="component-1-1-tab">
                                         <div class="row g-3 g-xl-5">
                                             <div class="col-md-6" data-aos-delay="100">
-                                                <a href="2024" class="card equal-md-4-3 card-hover-border bg-white">
+                                                <a href="forms" class="card equal-md-4-3 card-hover-border bg-white">
                                                     <div class="card-wrap text-center">
                                                         <div class="card-header pb-0">
-                                                            <img src="./assets/images/airchive.svg" alt="Logo" class="mb-2 w-40">
+                                                            <img src="./assets/images/topmodel.svg" alt="Logo" class="mb-2 w-40">
                                                         </div>
                                                         <div class="card-footer pt-0 mt-auto">
-                                                            <h4 class="card-title fw-light">Weekly Activity Report</h4>
+                                                            <h4 class="card-title fw-light">Reports</h4>
                                                         </div>
                                                     </div>
                                                 </a>
                                             </div>
 
                                             <div class="col-md-6" data-aos-delay="100">
-                                                <a href="2023" class="card equal-md-4-3 card-hover-border bg-white">
+                                                <a href="requests" class="card equal-md-4-3 card-hover-border bg-white">
                                                     <div class="card-wrap text-center">
                                                         <div class="card-header pb-0">
-                                                            <img src="./assets/images/airchive.svg" alt="Logo" class="mb-2 w-40">
+                                                            <img src="./assets/images/apply.svg" alt="Logo" class="mb-2 w-40">
                                                         </div>
                                                         <div class="card-footer pt-0 mt-auto">
-                                                            <h4 class="card-title fw-light">Daily Inspection</h4>
+                                                            <h4 class="card-title fw-light">Requests</h4>
                                                         </div>
                                                     </div>
                                                 </a>
                                             </div>
 
                                             <div class="col-md-6" data-aos-delay="100">
-                                                <a href="2023" class="card equal-md-4-3 card-hover-border bg-white">
+                                                <a href="account" class="card equal-md-4-3 card-hover-border bg-white">
                                                     <div class="card-wrap text-center">
                                                         <div class="card-header pb-0">
-                                                            <img src="./assets/images/airchive.svg" alt="Logo" class="mb-2 w-40">
+                                                            <img src="./assets/images/users.svg" alt="Logo" class="mb-2 w-40">
                                                         </div>
                                                         <div class="card-footer pt-0 mt-auto">
-                                                            <h4 class="card-title fw-light">Daily Site Report</h4>
-                                                        </div>
-                                                    </div>
-                                                </a>
-                                            </div>
-
-                                            <div class="col-md-6" data-aos-delay="100">
-                                                <a href="2023" class="card equal-md-4-3 card-hover-border bg-white">
-                                                    <div class="card-wrap text-center">
-                                                        <div class="card-header pb-0">
-                                                            <img src="./assets/images/airchive.svg" alt="Logo" class="mb-2 w-40">
-                                                        </div>
-                                                        <div class="card-footer pt-0 mt-auto">
-                                                            <h4 class="card-title fw-light">Vehicle Movement Register</h4>
-                                                        </div>
-                                                    </div>
-                                                </a>
-                                            </div>
-
-                                            <div class="col-md-6" data-aos-delay="100">
-                                                <a href="2023" class="card equal-md-4-3 card-hover-border bg-white">
-                                                    <div class="card-wrap text-center">
-                                                        <div class="card-header pb-0">
-                                                            <img src="./assets/images/airchive.svg" alt="Logo" class="mb-2 w-40">
-                                                        </div>
-                                                        <div class="card-footer pt-0 mt-auto">
-                                                            <h4 class="card-title fw-light">Vehicle Maintenance Request</h4>
-                                                        </div>
-                                                    </div>
-                                                </a>
-                                            </div>
-
-                                            <div class="col-md-6" data-aos-delay="100">
-                                                <a href="2023" class="card equal-md-4-3 card-hover-border bg-white">
-                                                    <div class="card-wrap text-center">
-                                                        <div class="card-header pb-0">
-                                                            <img src="./assets/images/airchive.svg" alt="Logo" class="mb-2 w-40">
-                                                        </div>
-                                                        <div class="card-footer pt-0 mt-auto">
-                                                            <h4 class="card-title fw-light">Vehicle Maintenance Log</h4>
-                                                        </div>
-                                                    </div>
-                                                </a>
-                                            </div>
-
-                                            <div class="col-md-6" data-aos-delay="100">
-                                                <a href="2023" class="card equal-md-4-3 card-hover-border bg-white">
-                                                    <div class="card-wrap text-center">
-                                                        <div class="card-header pb-0">
-                                                            <img src="./assets/images/airchive.svg" alt="Logo" class="mb-2 w-40">
-                                                        </div>
-                                                        <div class="card-footer pt-0 mt-auto">
-                                                            <h4 class="card-title fw-light">Monthly Vehicle Maintenance Checklist</h4>
+                                                            <h4 class="card-title fw-light">Users</h4>
                                                         </div>
                                                     </div>
                                                 </a>
